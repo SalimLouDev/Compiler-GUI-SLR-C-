@@ -1,0 +1,16 @@
+Start_Program
+Int_Number : i , j , Aft_5 ;;
+Give i : 23 ;;
+Real_Number : Aft34_2 ;;
+If -- i < j -- Give Aft_5 : 10 ;;
+Else
+    Start
+      Affect i to j ;;
+      Give Aft34_2 : 123 ;;
+    Finish
+ShowMes : "ceci est un message" ;;
+ShowVal : i ;;
+//. ceci est un commentaire
+End_Program  
+
+

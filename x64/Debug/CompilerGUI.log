@@ -1,0 +1,3 @@
+﻿  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CompilerGUI.vcxproj -> C:\Users\Salim Lou\source\repos\CompilerGUI\x64\Debug\CompilerGUI.exe
